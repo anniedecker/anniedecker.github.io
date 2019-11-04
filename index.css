@@ -1,3 +1,27 @@
-﻿body
+﻿html {
+    background-color: lavender;
+}
+
+h1 {
+    text-align:center;
+    
+}
+
+.navbar {
+    background-color: slategray;
+    font-size: 20px;
+    color: white;
+}
+
+body
 {
+    display: block;
+    margin: 8px;
+}
+
+h2 {
+    display: block;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif
 }
