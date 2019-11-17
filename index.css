@@ -29,6 +29,8 @@ h2 {
 #headshot {
     border-radius: 8px;
     display: block;
+}
+img {
     height: 150px ;
     width: auto;
 }
